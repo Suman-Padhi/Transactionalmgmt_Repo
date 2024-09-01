@@ -1,15 +1,15 @@
-package com.ashokIT.service;
+package com.mrDeveloper.service;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Service;
 
-import com.ashokIT.Entity.OrderInfo;
-import com.ashokIT.Entity.PaymentInfo;
-import com.ashokIT.dto.OrderAcknowledgement;
-import com.ashokIT.dto.OrderRequest;
-import com.ashokIT.repositories.OrderRepo;
-import com.ashokIT.repositories.PaymentRepo;
-import com.ashokIT.util.PaymentValidation;
+import com.mrDeveloper.Entity.OrderInfo;
+import com.mrDeveloper.Entity.PaymentInfo;
+import com.mrDeveloper.dto.OrderAcknowledgement;
+import com.mrDeveloper.dto.OrderRequest;
+import com.mrDeveloper.repositories.OrderRepo;
+import com.mrDeveloper.repositories.PaymentRepo;
+import com.mrDeveloper.util.PaymentValidation;
 
 import jakarta.transaction.Transactional;
 @Service

@@ -1,14 +1,12 @@
-package com.ashokIT.controller;
-
+package com.mrDeveloper.controller;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.PostMapping;
 import org.springframework.web.bind.annotation.RequestBody;
-import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
-import com.ashokIT.dto.OrderAcknowledgement;
-import com.ashokIT.dto.OrderRequest;
-import com.ashokIT.service.OrderService;
+import com.mrDeveloper.dto.OrderAcknowledgement;
+import com.mrDeveloper.dto.OrderRequest;
+import com.mrDeveloper.service.OrderService;
 
 @RestController
 //@RequestMapping("/api")

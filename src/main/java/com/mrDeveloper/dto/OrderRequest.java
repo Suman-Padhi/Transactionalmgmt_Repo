@@ -1,7 +1,7 @@
-package com.ashokIT.dto;
+package com.mrDeveloper.dto;
 
-import com.ashokIT.Entity.OrderInfo;
-import com.ashokIT.Entity.PaymentInfo;
+import com.mrDeveloper.Entity.OrderInfo;
+import com.mrDeveloper.Entity.PaymentInfo;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;

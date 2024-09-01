@@ -1,4 +1,4 @@
-package com.ashokIT.exception;
+package com.mrDeveloper.exception;
 
 public class InsufficientAmountException extends RuntimeException{
 
