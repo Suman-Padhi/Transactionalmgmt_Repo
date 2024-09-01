@@ -1,0 +1,12 @@
+{
+   "orderInfo": {
+      "orderId": 103,
+      "orderName": "Laptop",
+      "orderStatus": "confirmed"
+   },
+   "paymentInfo": {
+      "id": 2244,
+      "productName": "Laptop",
+      "amount": 55000
+   }
+}
